@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MusiAppXML</string>
+    <string name="play" />
+    <string name="pause" />
+    <string name="progressBar" />
+    <string name="letter"/>
+    <string name="leftButton"/>
+    <string name="rightButton"/>
+    <string name="songtextView">Mi barrio huele a widow</string>
+    <string name="share"/>
+    <string name="list"/>
+    <string name="volumeSeekBar"/>
+    <string name="ayaxProkTextView">Ayax y Prok</string>
+    <string name="ayaxProkImage"/>
+</resources>
